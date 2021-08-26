@@ -1,5 +1,3 @@
-# 🍬 Aaron Williams 🍬
-## iOS Developer 
 
 ## Email Me
-aaron@sweetsoftware.email
+[aaron@sweetsoftware.email](mailto:aaron@sweetsoftware.email)
