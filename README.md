@@ -1,3 +1,3 @@
 
-## Email Me
-[aaron@sweetsoftware.email](mailto:aaron@sweetsoftware.email)
+# Email Me
+[🍬 aaron@sweetsoftware.email 🍬](mailto:aaron@sweetsoftware.email)
